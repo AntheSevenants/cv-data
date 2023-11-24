@@ -1,0 +1,26 @@
+[
+    {
+        "institution": "KU Leuven",
+        "diploma": "Bachlor of Arts",
+        "program": "Literature and Linguistics",
+        "option": "Dutch and English",
+        "level": "BA",
+        "grade": "Magna cum laude"
+    },
+    {
+        "institution": "KU Leuven",
+        "diploma": "Master of Arts",
+        "program": "Linguistics",
+        "option": "Formal and Computational Linguistics",
+        "level": "MA",
+        "grade": "Summa cum laude"
+    },
+    {
+        "institution": "KU Leuven",
+        "diploma": "Master of Science",
+        "program": "Artificial Intelligence",
+        "option": "Speech and Language Technology",
+        "level": "MA",
+        "grade": "Summa cum laude"
+    }
+]

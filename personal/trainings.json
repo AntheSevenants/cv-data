@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Methods in Language Sciences",
+        "option": "Mixed models",
+        "type": "Summer School",
+        "institution": "UGent",
+        "year": "2022",
+        "month": "August",
+        "instructors": [
+            "Shravan Vasishth"
+        ],
+        "location": "Ghent, Belgium"
+    },
+    {
+        "name": "Digital Scholarship module",
+        "type": "Internal training",
+        "institution": "KU Leuven",
+        "year": "2022",
+        "month": "November",
+        "instructors": [
+            "Leah Budke",
+            "Rebecca Burke",
+            "Laura Mesotten",
+            "Nele Noppe"
+        ],
+        "location": "Leuven, Belgium"
+    },
+    {
+        "name": "Text Mining with R",
+        "type": "LStat Short Course",
+        "institution": "KU Leuven",
+        "year": "2022",
+        "month": "November",
+        "instructors": [
+            "Jan Wijffels"
+        ],
+        "location": "Leuven, Belgium"
+    },
+    {
+        "name": "Python software engineering",
+        "type": "Internal training",
+        "institution": "UHasselt",
+        "year": "2023",
+        "month": "April",
+        "instructors": [
+            "Geert Jan Bex"
+        ],
+        "location": "Online"
+    },
+    {
+        "name": "Working efficiently with Outlook",
+        "type": "Internal training",
+        "institution": "KU Leuven",
+        "year": "2023",
+        "month": "October",
+        "instructors": [
+            "Greet Schoovaerts"
+        ],
+        "location": "Online"
+    }
+]

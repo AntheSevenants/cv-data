@@ -1,0 +1,33 @@
+[
+    {
+        "year": "2020-2021",
+        "job": "Blended learning assistant",
+        "course": "English proficiency",
+        "level": "BA",
+        "institution": "KU Leuven",
+        "with": [
+            "Manon Buysse",
+            "Lize Vandeborght",
+            "Sofie De Smyter"
+        ]
+    },
+    {
+        "year": "2021",
+        "job": "Blended learning assistant",
+        "course": "Information literacy and plagiarism",
+        "institution": "ILT",
+        "with": [
+            "Lieve De Wachter"
+        ]
+    },
+    {
+        "year": "2022",
+        "job": "Software programmer",
+        "course": "Spanish proficiency exercises platform",
+        "institution": "KU Leuven",
+        "with": [
+            "Katleen Van den Steen",
+            "Dirk Speelman"
+        ]
+    }
+]
