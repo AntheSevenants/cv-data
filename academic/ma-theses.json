@@ -7,6 +7,11 @@
                 "Freek Van de Velde",
                 "Lieke van Deinsen"
             ]
+        },
+        {
+            "student": "Marthe Kellen",
+            "title": "Exploratory research on Dutch verb clusters using a transformer model",
+            "supervisors": [ "Tim Van de Cruys" ]
         }
     ]
 }
