@@ -68,5 +68,17 @@
             "Julie De Smedt"
         ],
         "location": "Brussels, Belgium"
+    },
+    {
+        "name": "Write your own R package",
+        "type": "FLAMES course",
+        "Institution": "KU Leuven",
+        "year": "2024",
+        "month": "October",
+        "instructors": [
+            "Anna Mergoni",
+            "Marco Da la Cruz"
+        ],
+        "location": "Online"
     }
 ]
