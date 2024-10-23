@@ -9,6 +9,7 @@
         "instructors": [
             "Shravan Vasishth"
         ],
+        "hours": 20,
         "location": "Ghent, Belgium"
     },
     {
@@ -23,6 +24,7 @@
             "Laura Mesotten",
             "Nele Noppe"
         ],
+        "hours": 10,
         "location": "Leuven, Belgium"
     },
     {
@@ -34,6 +36,7 @@
         "instructors": [
             "Jan Wijffels"
         ],
+        "hours": 13,
         "location": "Leuven, Belgium"
     },
     {
@@ -45,6 +48,7 @@
         "instructors": [
             "Geert Jan Bex"
         ],
+        "hours": 4,
         "location": "Online"
     },
     {
@@ -56,6 +60,7 @@
         "instructors": [
             "Greet Schoovaerts"
         ],
+        "hours": 3.5,
         "location": "Online"
     },
     {
@@ -67,6 +72,7 @@
         "instructors": [
             "Julie De Smedt"
         ],
+        "hours": 6,
         "location": "Brussels, Belgium"
     },
     {
@@ -78,6 +84,7 @@
         "instructors": [
             "Sarah Gielen"
         ],
+        "hours": 8,
         "location": "Online"
     },
     {
@@ -90,6 +97,7 @@
             "Anna Mergoni",
             "Marco Da la Cruz"
         ],
+        "hours": 2.5,
         "location": "Online"
     }
 ]
