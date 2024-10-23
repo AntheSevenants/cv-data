@@ -70,6 +70,17 @@
         "location": "Brussels, Belgium"
     },
     {
+        "name": "Supervising a Master's thesis",
+        "type": "Internal training",
+        "institution": "KU Leuven",
+        "year": "2024",
+        "month": "July",
+        "instructors": [
+            "Sarah Gielen"
+        ],
+        "location": "Online"
+    },
+    {
         "name": "Write your own R package",
         "type": "FLAMES course",
         "Institution": "KU Leuven",
