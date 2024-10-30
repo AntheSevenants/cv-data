@@ -90,7 +90,7 @@
     {
         "name": "Write your own R package",
         "type": "FLAMES course",
-        "Institution": "KU Leuven",
+        "institution": "KU Leuven",
         "year": "2024",
         "month": "October",
         "instructors": [
