@@ -14,13 +14,20 @@
     {
         "year": "2023-",
         "job": "Chairman of the departmental soup lobby",
-        "description": "Organisation of the weekly soup service at the Linguistics faculty",
+        "description": "Organisation of the weekly soup service at the Linguistics department",
         "institution": "KU Leuven"
     },
     {
         "year": "2023-",
         "job": "ABAP representative",
-        "description": "Member of the ABAP council. Responsible for the teambuilding and departmental quiz",
+        "description": "Member of the ABAP council, which represents those employed under a temporary contract at the faculty board. I was responsible for the teambuilding in 2023.",
+        "institution": "KU Leuven"
+    },
+    {
+        "year": "2023-",
+        "job": "Quizmaster",
+        "description": "Writer and host of the yearly departmental quiz",
+        "with": [ "Thomas Van Hoey" ],
         "institution": "KU Leuven"
     }
 ]

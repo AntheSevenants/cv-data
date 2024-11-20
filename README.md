@@ -14,6 +14,8 @@ Data for my curriculum vitae
 
 - `educational-services.json`:  
     all servicing related to education that is not not teaching
+- `invited-lectures.json`:  
+    all guest lectures I was invited to
 - `ma-theses.json`:  
     all master theses I have (co-)supervised
 - `press.json`:  
@@ -22,3 +24,5 @@ Data for my curriculum vitae
     all academic servicing that is unrelated to teaching
 - `teaching.json`:  
     all courses I have taught
+- `videos.json`:  
+    all educational videos I have produced
