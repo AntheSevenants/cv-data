@@ -90,7 +90,7 @@
     {
         "name": "Write your own R package",
         "type": "FLAMES course",
-        "Institution": "KU Leuven",
+        "institution": "KU Leuven",
         "year": "2024",
         "month": "October",
         "instructors": [
@@ -99,5 +99,25 @@
         ],
         "hours": 2.5,
         "location": "Online"
+    },
+    {
+        "name": "Transformations: the Good, the Bad, the Ugly",
+        "type": "FLAMES course",
+        "institution": "UGent",
+        "year": "2024",
+        "month": "November",
+        "instructors": [
+            "Emmanuel Abatih"
+        ]
+    },
+    {
+        "name": "Handling Missing Data",
+        "type": "FLAMES course",
+        "institution": "UGent",
+        "year": "2024",
+        "month": "November",
+        "instructors": [
+            "Emmanuel Abatih"
+        ]
     }
 ]
