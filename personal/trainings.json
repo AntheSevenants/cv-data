@@ -108,7 +108,9 @@
         "month": "November",
         "instructors": [
             "Emmanuel Abatih"
-        ]
+        ],
+        "hours": 1.5,
+        "location": "Online"
     },
     {
         "name": "Handling Missing Data",
@@ -118,7 +120,9 @@
         "month": "November",
         "instructors": [
             "Emmanuel Abatih"
-        ]
+        ],
+        "hours": 1.5,
+        "location": "Online"
     },
     {
         "name": "Reinforcement Learning",
@@ -129,6 +133,7 @@
         "instructors": [
             "Pieter Libin"
         ],
-        "hours": 4
+        "hours": 4,
+        "location": "Jette"
     }
 ]
