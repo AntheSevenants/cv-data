@@ -119,5 +119,15 @@
         "instructors": [
             "Emmanuel Abatih"
         ]
+    },
+    {
+        "name": "Reinforcement Learning",
+        "type": "FLAMES course",
+        "institution": "VUB",
+        "year": "2025",
+        "month": "January",
+        "instructors": [
+            "Pieter Libin"
+        ]
     }
 ]
