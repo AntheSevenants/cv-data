@@ -1,5 +1,12 @@
 [
     {
+        "year": "2025",
+        "job": "600 Years of KU Leuven Quiz",
+        "description": "Writer of the special Faculty of Arts quiz organised for the 600-year anniversary of KU Leuven",
+        "with": [ "Thomas Van Hoey", "Bert Oben", "Melina De Dijn" ],
+        "institution": "KU Leuven"
+    },
+    {
         "year": "2023-",
         "job": "System administrator",
         "description": "Management of the QLVL research server",
