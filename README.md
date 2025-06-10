@@ -20,6 +20,8 @@ Data for my curriculum vitae
     all master theses I have (co-)supervised
 - `press.json`:  
     all times I have appeared in the press (digital, print, radio, television)
+- `mentions.json`:  
+    all times I have been mentioned in the press (digital, print, radio, television)
 - `servicing.json`:  
     all academic servicing that is unrelated to teaching
 - `teaching.json`:  
