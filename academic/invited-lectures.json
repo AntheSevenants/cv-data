@@ -7,5 +7,14 @@
         "lecturers": [ "Eline Zenner" ],
         "location": "Brussel",
         "institution": "KU Leuven"
-    }
+    },
+    {
+        "title": "De Sims voor onderzoek: Het nut van computersimulaties",
+        "date": "2025-05-06",
+        "course": "Kwantitatieve onderzoeksmethoden",
+        "courseCode": "1120FLWTLA",
+        "lecturers": [ "Dirk Pijpops" ],
+        "location": "Antwerpen",
+        "institution": "Universiteit Antwerpen"
+    },
 ]
