@@ -1,40 +1,9 @@
 [
     {
-        "year": "2025-",
-        "job": "Webmaster",
-        "description": "Management of the QLVL website",
-        "institution": "KU Leuven"
-    },
-    {
-        "year": "2025",
-        "job": "600 Years of KU Leuven Quiz",
-        "description": "Writer of the special Faculty of Arts quiz organised for the 600-year anniversary of KU Leuven",
-        "with": [ "Thomas Van Hoey", "Bert Oben", "Melina De Dijn" ],
-        "institution": "KU Leuven"
-    },
-    {
-        "year": "2024",
-        "job": "Tour guide for the annual English department London trip",
-        "description": "Preparation of travel itineraries. Support and ad-hoc problem solving on location",
-        "with": [ "Manon Buysse", "Lize Vandeborght", "Lien Ringoot", "Caroline Gentens" ],
-        "institution": "KU Leuven"
-    },
-    {
         "year": "2023-",
-        "job": "System administrator",
-        "description": "Management of the QLVL research server",
-        "institution": "KU Leuven"
-    },
-    {
-        "year": "2023-",
-        "job": "Webmaster",
-        "description": "Management of the Department of Linguistics website",
-        "institution": "KU Leuven"
-    },
-    {
-        "year": "2023-",
-        "job": "Chairman of the departmental soup lobby",
-        "description": "Organisation of the weekly soup service at the Linguistics department",
+        "job": "Quizmaster",
+        "description": "Writer and host of the yearly departmental quiz",
+        "with": [ "Thomas Van Hoey" ],
         "institution": "KU Leuven"
     },
     {
@@ -45,9 +14,40 @@
     },
     {
         "year": "2023-",
-        "job": "Quizmaster",
-        "description": "Writer and host of the yearly departmental quiz",
-        "with": [ "Thomas Van Hoey" ],
+        "job": "Chairman of the departmental soup lobby",
+        "description": "Organisation of the weekly soup service at the Linguistics department",
         "institution": "KU Leuven"
-    }
+    },
+    {
+        "year": "2023-",
+        "job": "Webmaster",
+        "description": "Management of the Department of Linguistics website",
+        "institution": "KU Leuven"
+    },
+    {
+        "year": "2023-",
+        "job": "System administrator",
+        "description": "Management of the QLVL research server",
+        "institution": "KU Leuven"
+    },
+    {
+        "year": "2024",
+        "job": "Tour guide for the annual English department London trip",
+        "description": "Preparation of travel itineraries. Support and ad-hoc problem solving on location",
+        "with": [ "Manon Buysse", "Lize Vandeborght", "Lien Ringoot", "Caroline Gentens" ],
+        "institution": "KU Leuven"
+    },
+    {
+        "year": "2025",
+        "job": "600 Years of KU Leuven Quiz",
+        "description": "Writer of the special Faculty of Arts quiz organised for the 600-year anniversary of KU Leuven",
+        "with": [ "Thomas Van Hoey", "Bert Oben", "Melina De Dijn" ],
+        "institution": "KU Leuven"
+    },
+    {
+        "year": "2025-",
+        "job": "Webmaster",
+        "description": "Management of the QLVL website",
+        "institution": "KU Leuven"
+    },
 ]
