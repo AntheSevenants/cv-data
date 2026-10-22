@@ -16,5 +16,14 @@
         "lecturers": [ "Dirk Pijpops" ],
         "location": "Antwerpen",
         "institution": "Universiteit Antwerpen"
+    },
+    {
+        "title": "Onbekend is onbemind: Op zoek naar 'gij bent' in tussentaal",
+        "date": "2025-11-07",
+        "course": "Nederlands: theorie II",
+        "courseCode": "HBT04E",
+        "lecturers": [ "Lena Heynen" ],
+        "location": "Brussel",
+        "institution": "KU Leuven"
     }
 ]

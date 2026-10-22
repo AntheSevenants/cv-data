@@ -7,7 +7,7 @@
         "institution": "KU Leuven"
     },
     {
-        "year": "2023-",
+        "year": "2023-2026",
         "job": "ABAP representative",
         "description": "Member of the ABAP council, which represents those employed under a temporary contract at the faculty board. I was responsible for the teambuilding in 2023.",
         "institution": "KU Leuven"
@@ -31,10 +31,10 @@
         "institution": "KU Leuven"
     },
     {
-        "year": "2024",
+        "year": "2024, 2026",
         "job": "Tour guide for the annual English department London trip",
         "description": "Preparation of travel itineraries. Support and ad-hoc problem solving on location",
-        "with": [ "Manon Buysse", "Lize Vandeborght", "Lien Ringoot", "Caroline Gentens" ],
+        "with": [ "Manon Buysse", "Lize Vandeborght", "Lien Ringoot", "Caroline Gentens", "Kaat Vanden Abeele", "Jonathan Hoebeke" ],
         "institution": "KU Leuven"
     },
     {
@@ -49,5 +49,12 @@
         "job": "Webmaster",
         "description": "Management of the QLVL website",
         "institution": "KU Leuven"
+    },
+    {
+        "year": "2026-",
+        "job": "Vice-president",
+        "description": "Management of the organisation and organisation of the LSB conference",
+        "with": [ "Lobke Ghesquière (president)" ],
+        "institution": "Linguistic Society of Belgium"
     }
 ]
